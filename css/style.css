@@ -94,6 +94,7 @@ p{
 }
 .card1{
     transform: translateY(-10px);
+    border-radius: 10px;
 }
 .card2{
     transform: translateY(-10px);
