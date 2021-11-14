@@ -75,7 +75,6 @@ p{
     box-sizing: border-box;
     cursor: pointer;
     margin: 10px 15px;
-    background-image: url(image/iss.jpg);
     background-position: center;
     background-size: cover;
     transition: transform 0.5s;
@@ -89,7 +88,6 @@ p{
     box-sizing: border-box;
     cursor: pointer;
     margin: 10px 15px;
-    background-image: url(image/iss2.jpg);
     background-position: center;
     background-size: cover;
     transition: transform 0.5s;
