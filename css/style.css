@@ -18,7 +18,7 @@
     height: 12%;
     color: rgb(255, 255, 255);
     display: flex;
-    align-items: center;
+    align-items: left;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bolder;
 }
